@@ -1,0 +1,30 @@
+{
+  "name": "partidaweb",
+  "version": "1.0.0",
+  "description": "inicio de pagina web",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-sass": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresgabrielrc/partidaweb.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Andrés Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresgabrielrc/partidaweb/issues"
+  },
+  "homepage": "https://github.com/andresgabrielrc/partidaweb#readme"
+}
