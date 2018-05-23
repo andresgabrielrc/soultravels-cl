@@ -304,5 +304,11 @@ template {
 
 /* Colores */
 /* Colores en degradado */
+/* ----------------------------------------------------- */
+/* ----------------------------------------------------- */
+/* INICIO DE LOS ESTILOS PERSONALES */
 body {
-  background: red; }
+  background: white;
+  font-family: "Nunito", sans-serif;
+  font-size: 0.75em;
+  color: #232328; }
